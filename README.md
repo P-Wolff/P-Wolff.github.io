@@ -1,2 +1,2 @@
 # sosoft.github.io
-Trabalho do Pedro
+Primeiro trabalho lançado ao ar do Frei
