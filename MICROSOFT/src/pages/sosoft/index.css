@@ -1,0 +1,311 @@
+
+.cabecalho .logo .logo1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: transparent;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+    padding: 15px;
+    margin: 5px;
+    margin-left: 30px;
+    
+
+}
+
+.cabecalho .logo .logo1 img {
+    width: 40px;
+    
+}
+
+.cabecalho .logo .logo1 a {
+    text-decoration: none;
+    color: #000;
+    width: 100px;
+}
+
+.cabecalho .nav .menu .opcoes {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+
+    list-style-type: none;
+    padding: 15px;
+    border-width: 20px;
+}
+
+.cabecalho .nav .menu .opcoes button {
+    border: none;
+    background: none;
+    margin-left: 50px;
+
+    font-family: 'Text-bold';
+    font-size: 15px;
+
+}
+
+.cabecalho .menu2 button {
+    border: none;
+    background: none;
+    margin-left: 720px;
+
+}
+
+.cabecalho .menu2 button a {
+    text-decoration: none;
+    color: #000;
+    width: 500px;
+
+}
+
+/*Secao 2*/
+.pacote .info {
+    margin: 0;
+    width: 450px;
+    margin-left: 80px;
+
+}
+
+.pacote .info h1{
+    font-size: 45px;
+    font-family: 'Text-regular';
+
+}
+
+.pacote .info p{
+    font-family: 'regular';
+    font-size: 18px;
+    width: 450px;
+
+}
+
+.button .button-pct{
+    border-style: ridge;
+    border-color: #00000044;
+    margin-top: 20px;
+
+}
+
+.button .button-pct a{
+    color: #000;
+    text-decoration: none;
+
+}
+
+.pacote .img {
+    margin-left: 400px;
+
+}
+
+/*Secao 03*/
+.pl-ct .word {
+    display: block;
+    text-align: center;
+    padding-top: 90px;
+    gap: 12px;
+    width: 250px;
+    padding-bottom: 90px;
+    margin: 20px;
+
+}
+
+.pl-ct .word .img-word {
+    text-decoration: none;
+    border-style: none;
+    mix-blend-mode: multiply;
+    background-color: transparent;
+
+}
+
+.pl-ct .word .info4 h1 {
+    color: #06099e;
+    font-family: '';
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+}
+
+.pl-ct .word .info4 p {
+    font-family: 'Text-regular';
+    font-size: 17px;
+    text-align: left;
+}
+
+.pl-ct .word button {
+    cursor: pointer;
+
+    background-color: transparent;
+    background-image: none;
+    text-transform: none;
+    border-style: none;
+
+    margin-top: 50px;
+
+}
+
+.pl-ct .word button a {
+    text-decoration: none;
+    color: #06099e;
+    font-size: 15px;
+ 
+}
+
+.pl-ct .point {
+    display: block;
+    text-align: center;
+    padding-top: 90px;
+    gap: 12px;
+    width: 250px;
+    padding-bottom: 90px;
+    margin: 20px;
+
+}
+
+.pl-ct .point .img-point {
+    text-decoration: none;
+    border-style: none;
+    mix-blend-mode: multiply;
+    background-color: transparent;
+
+}
+
+.pl-ct .point .info5 h1 {
+    color: #d35318;
+    font-family: '';
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+}
+
+.pl-ct .point .info5 p {
+    font-family: 'Text-regular';
+    font-size: 17px;
+    text-align: left;
+}
+
+.pl-ct .point button {
+    cursor: pointer;
+
+    background-color: transparent;
+    background-image: none;
+    text-transform: none;
+    border-style: none;
+
+    margin-top: 50px;
+
+}
+
+.pl-ct .point button a {
+    text-decoration: none;
+    color: #d35318;
+    font-size: 15px;
+ 
+}
+
+.pl-ct .excel {
+    display: block;
+    text-align: center;
+    padding-top: 90px;
+    gap: 12px;
+    width: 250px;
+    padding-bottom: 90px;
+    margin: 20px;
+
+}
+
+.pl-ct .excel .img-excel {
+    text-decoration: none;
+    border-style: none;
+    mix-blend-mode: multiply;
+    background-color: transparent;
+
+}
+
+.pl-ct .excel .info6 h1 {
+    color: #087004;
+    font-family: '';
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+}
+
+.pl-ct .excel .info6 p {
+    font-family: 'Text-regular';
+    font-size: 17px;
+    text-align: left;
+}
+
+.pl-ct .excel button {
+    cursor: pointer;
+
+    background-color: transparent;
+    background-image: none;
+    text-transform: none;
+    border-style: none;
+
+    margin-top: 50px;
+
+}
+
+.pl-ct .excel button a {
+    text-decoration: none;
+    color: #087004;
+    font-size: 15px;
+ 
+}
+
+.pl-ct .note {
+    display: block;
+    text-align: center;
+    padding-top: 90px;
+    gap: 12px;
+    width: 250px;
+    padding-bottom: 90px;
+    margin: 20px;
+
+}
+
+.pl-ct .note .img-note {
+    text-decoration: none;
+    border-style: none;
+    mix-blend-mode: multiply;
+    background-color: transparent;
+
+}
+
+.pl-ct .note .info7 h1 {
+    color: #5e0392;
+    font-family: '';
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+}
+
+.pl-ct .note .info7 p {
+    font-family: 'Text-regular';
+    font-size: 17px;
+    text-align: left;
+}
+
+
+.pl-ct .note button {
+    cursor: pointer;
+
+    background-color: transparent;
+    background-image: none;
+    text-transform: none;
+    border-style: none;
+
+    margin-top: 50px;
+
+}
+
+.pl-ct .note button a {
+    text-decoration: none;
+    color: #5e0392;
+    font-size: 15px;
+ 
+}

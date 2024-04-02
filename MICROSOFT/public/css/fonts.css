@@ -1,0 +1,21 @@
+@import url(/public/assets/fonts);
+
+@font-face {
+    font-family: 'soft';
+    src: url(/public/assets/fonts/latest.woff2);
+    font-weight: 200;
+}
+
+
+
+@font-face {
+    font-family: 'Text-regular';
+    src: url(/public/assets/fonts/mwfmdl2-v3.54.woff);
+}
+
+
+@font-face {
+    font-family: 'Text-bold';
+    src: url(/public/assets/fonts/MWFFluentIcons.woff2);
+}
+
